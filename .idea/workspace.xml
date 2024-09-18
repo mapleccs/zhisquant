@@ -62,7 +62,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/智慧深识/量化分析/ZhiSQuantProject",
+    "last_opened_file_path": "E:/智慧深识/量化分析/ZhiSQuant",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -400,6 +400,7 @@
       <workItem from="1726577013608" duration="203000" />
       <workItem from="1726578363675" duration="2654000" />
       <workItem from="1726584836499" duration="3142000" />
+      <workItem from="1726627305593" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
